@@ -25,6 +25,11 @@ img{
     width: 400px;
     height: auto;
 }
+
+.col-4 h3{
+  width: 400px;
+
+}
 .portfolio-texto{
   width: 400px; /* Ajusta el ancho del contenedor */
   word-wrap: break-word; /* Permite que las palabras largas se dividan */
