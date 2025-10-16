@@ -12,8 +12,10 @@ html body{
 .container-tagline{
   width: 100%;
   height: 34rem;
-  background: gainsboro;
-/* background-image: url(website/assets/img/bg.jpg); */
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-image: url('https://th.bing.com/th/id/R.e1885513e5dfcbd47e9ba8ef3ca29d30?rik=MBuuFPFG4uNRKw&pid=ImgRaw&r=0');
 }
 .title-tagline{
   display: flex;
